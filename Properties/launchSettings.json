@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "mdns-test": {
+      "commandName": "Project"
+    }
+  }
+}
